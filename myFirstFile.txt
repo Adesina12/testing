@@ -3,3 +3,4 @@ Verb
 Adjective
 adverb
 preposition
+interjection
